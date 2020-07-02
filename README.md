@@ -8,3 +8,4 @@ If you are not interested in collaborating (totally fine) but are planning on wo
 idea|description|in progress?|who's working on it
 ----|----|----|----
 automate manual compound curation|get a bunch of medicinal chemists in a room to rate structures and then develop predictive models using the ratings as training data. It seems like the manual process of triaging molecules is unavoidable even when using ADME tools. Could we develop computational methods to resolve that manual curation step??||
+automate manual dose-response curation|get a bunch of preclinical researchers to categorize dose response curves for activity (i.e. efficacious compounds, non efficacious compounds to train a model to predict the efficacy of any given curve. There is often a lot of manual curation and triaging that goes on - 4/5 parameter logistic regression is not the be-all and end all of determining whether a compound is efficacious||
