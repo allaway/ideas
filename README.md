@@ -1,5 +1,5 @@
 # ideas
-I have a lot of dumb ideas for projects, but maybe some of them are occasionally good ideas or actionable in the right hands. Here's a running list. 
+I have a some alright ideas for projects, but maybe some of them are occasionally good ideas or actionable in the right hands. Here's a running list. 
 
 If you happen to stumble upon this repo and are interested in collaborating on one or more of these projects, let me know!
 
